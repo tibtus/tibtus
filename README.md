@@ -1,16 +1,84 @@
-### Hi there 👋
+<div align="center" ><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40px' align="center"/>  </div>
 
-<!--
-**tibtus/tibtus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello My name is Serhii, I'm Front-end Developer / JS / React.</h2><br>
+<h3 align="center">In my work as a developer, I use such languages and technologies as JavaScript, React.js, Material-UI, Node.js, MongoDb..</h3><br>
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp; <b> About Me </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 &nbsp;I have more than 5 years of team management experience in areas such as HelpDesk and system administration of servers and networks, more than 10 years as a system administrator.
+
+💼 &nbsp;I have been working as a full-time developer since May 2022 for a company that independently develops all software for its financial products.
+
+✉️ &nbsp;You can shoot me an email at tibtus@gmail.com ! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://www.linkedin.com/in/burdeinyi/) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="./assets/Night-Coding.gif"  align="right" />
+
+### 🛠 &nbsp; <b> My main Tech Stack </b>
+
+<div>
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+ <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+ <img alt="MUI" src="https://shields.io/badge/Materilal--UI-FFF?logo=MUI&logoColor=007FFF&style=for-the-badge" />
+ <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black" />
+ <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+ <img alt="Redux-Hooks" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
+ <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+ <img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
+ <img alt="Bootstrap" src="https://shields.io/badge/Bootstrap-FFF?logo=Bootstrap&logoColor=7952B3&style=for-the-badge" />
+ <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+ <img alt="Webpack" src="https://shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=FFF&style=for-the-badge" />
+ <img alt="gulp" src="https://shields.io/badge/gulp-CF4647?logo=gulp&logoColor=FFF&style=for-the-badge" />
+ <img alt="Git" src="https://shields.io/badge/Git-181717?logo=Git&logoColor=F05032&style=for-the-badge" />
+ <img alt="GitHub" src="https://shields.io/badge/GitHub-181717?logo=GitHub&logoColor=FFF&style=for-the-badge" />
+ <img alt="GitLab" src="https://shields.io/badge/GitLab-181717?logo=GitLab&logoColor=FC6D26&style=for-the-badge" />
+ <img alt="Sass" src="https://shields.io/badge/Sass-181717?logo=Sass&logoColor=FC6D26&style=for-the-badge" />
+ <img alt="Miro" src="https://shields.io/badge/Miro-050038?logo=Miro&logoColor=FC6D26&style=for-the-badge" />
+ <img alt="Linux" src="https://shields.io/badge/Linux-FCC624?logo=Linux&logoColor=181717&style=for-the-badge" />
+
+
+
+</div>
+
+
+
+
+### 🌱 &nbsp; <b> My projects: </b> 👨🏻
+
+<div align="center">
+  - JS/React Comic Portal  -   
+  <a href="https://github.com/tibtus/React_Marvel_Comics">React Marvel Comics</a>   
+  <br>
+  - Test task from the company on vanilla js  -
+  <a href="https://github.com/tibtus/Serhii_Burdeinyi_17_04_2022">Test task on VanillaJS - 17_04_2022</a>   
+  <br>
+  - business card site -
+  <a href="https://github.com/tibtus/lawyer-k">lawyer-k</a> 
+  <br>
+</div>
+
+
+### 🤝🏻 &nbsp; <b> Connect with Me </b>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/burdeinyi/"><img src="https://img.shields.io/badge/-Serhii%20Burdeinyi%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tibtus@gmail.com"><img src="https://img.shields.io/badge/-tibtus@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/burdeinyi.serhii/"><img src="https://img.shields.io/badge/-@burdeinyi.serhii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/burdeinyi.serhii"><img src="https://img.shields.io/badge/-@burdeinyi.serhii-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+</p>
+
+
+### ⚙️ &nbsp; <b> GitHub Analytics </b>
+
+<p align="center">
+<a href="https://github.com/tibtus">
+  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tibtus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tibtus&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
