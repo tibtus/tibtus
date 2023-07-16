@@ -50,13 +50,13 @@ feedback and suggestions!
 - One-page business website for Company.<br>
   Technologies used: <br>
   WordPress/HTML/CSS/JavaScript <br>
-  Visit the website: [N.A. INVEST](https://belitrade.com/)  
+  Visit the website: [N.A. INVEST](https://nains.de/)    
   <br>
 
 - One-page business website for Pharmaceutical Company.<br>
   Technologies used: <br>
   WordPress/HTML/CSS/JavaScript <br>
-  Visit the website: [BELITRADE](https://nains.de/)  
+  Visit the website: [BELITRADE](https://belitrade.com/)  
   <br>
 
 - Developed a test website portal using JS/React, showcasing Marvel comics and characters. <br>
