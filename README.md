@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello My name is Serhii</h2><br>
 <h3 align="center">I'm a js developer who works with the following technologies: JavaScript, React.js, Material-UI,
-Node.js, and MongoDb. <br>
+Node.js, and MongoDb.  <br>
 Before that, I have more than 13 years of experience as a system administrator and was responsible for setting up and
 maintaining networks and servers, as well as managing the IT department (more than 6 years).</h3><br>
 
@@ -45,13 +45,39 @@ feedback and suggestions!
 
 ### 🌱 &nbsp; <b> My projects: </b> 👨🏻
 
-<div align="center">
-  - JS/React Comic Portal  -   
-  <a href="https://github.com/tibtus/React_Marvel_Comics">React Marvel Comics</a>   
+<div align="left">  
+
+- One-page business website for Company.<br>
+  Technologies used: <br>
+  WordPress/HTML/CSS/JavaScript <br>
+  Visit the website: [N.A. INVEST](https://belitrade.com/)  
   <br>
-  - Test task from the company on vanilla js  -
-  <a href="https://github.com/tibtus/Serhii_Burdeinyi_17_04_2022">Test task on VanillaJS - 17_04_2022</a>   
+
+- One-page business website for Pharmaceutical Company.<br>
+  Technologies used: <br>
+  WordPress/HTML/CSS/JavaScript <br>
+  Visit the website: [BELITRADE](https://nains.de/)  
   <br>
+
+- Developed a test website portal using JS/React, showcasing Marvel comics and characters. <br>
+  The website was designed to provide users with an interactive experience and display information <br>
+  about various Marvel comic series and their beloved characters. <br>
+  Technologies used: <br>
+  HTML/CSS/JavaScript/React <br>
+  GitHub Repository: [JS/React Marvel Comics Test Website Portal](https://github.com/tibtus/React_Marvel_Comics/)
+
+  <br>
+
+- Implemented a Movies Gallery website using vanilla JavaScript (ES6) without any external libraries or frameworks.<br>
+  The website includes essential features like a "favorite list" option and a movie detail modal. <br>
+  Utilized data from API endpoints for movie listings. Implemented responsive design and optional features such as<br>
+  two view types (card and list) and filtering by genres using a select input.<br>
+  Technologies used: <br>
+  Vanilla JavaScript (ES6) <br>
+  GitHub
+  Repository: [Test Project: Movies Gallery with Favorite List and Movie Detail Modal](https://github.com/tibtus/Serhii_Burdeinyi_17_04_2022/)   
+  <br>
+
 </div>
 
 ### 🤝🏻 &nbsp; <b> Connect with Me </b>
